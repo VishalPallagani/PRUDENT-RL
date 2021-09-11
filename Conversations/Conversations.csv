@@ -1,0 +1,56 @@
+Greetings,Greetings_A,Place,Place_A,Cost,Answers
+Hello,Hello. I am PRUDENT. How can I help?,pliers,What type of pliers do you want the code for?,Brake spring pliers,25191716
+Hi,,cholera,What type of cholera do you want the code for?,Punching pliers,27111516
+,,typhoid,What type of typhoid do you want the code for?,Mini pliers,27111560
+,,screwdriver,What type of screwdriver do you want the code for?,Linemans pliers,27112106
+,,,,Adjustable widemouth pliers,27112107
+,,,,Needlenose pliers,27112108
+,,,,Retaining ring pliers,27112110
+,,,,Tongue and groove pliers,27112112
+,,,,Slip or groove joint pliers,27112113
+,,,,Diagonal cut pliers,27112114
+,,,,Locking pliers,27112115
+,,,,End cut pliers,27112117
+,,,,Sheet metal pliers,27112122
+,,,,Round nose pliers,27112125
+,,,,Flat nose pliers,27112126
+,,,,Curved nose pliers,27112128
+,,,,Longnose pliers,27112134
+,,,,Combination pliers,27112139
+,,,,Circlip pliers,27112140
+,,,,Multi tool pliers,27112142
+,,,,Snap pliers,27112144
+,,,,Slip joint pliers,27112145
+,,,,Crimping pliers,27112147
+,,,,Electronics pliers,27112148
+,,,,Jewellers pliers,27112150
+,,,,Wire-stripping pliers,27112151
+,,,,Surgical pliers,42292303
+,,,,Orthodontic pliers,42152713
+,,,,Cholera,A00
+,,,,"Cholera due to Vibrio cholerae 01, biovar cholerae",A00.0
+,,,,"Cholera due to Vibrio cholerae 01, biovar eltor",A00.1
+,,,,"Cholera, unspecified",A00.9
+,,,,Typhoid and paratyphoid fevers,A01
+,,,,Typhoid fever,A01.0
+,,,,"Typhoid fever, unspecified",A01.00
+,,,,Typhoid meningitis,A01.01
+,,,,Typhoid fever with heart involvement,A01.02
+,,,,Typhoid pneumonia,A01.03
+,,,,Typhoid arthritis,A01.04
+,,,,Typhoid osteomyelitis,A01.05
+,,,,Typhoid fever with other complications,A01.09
+,,,,Paratyphoid fever A,A01.1
+,,,,Paratyphoid fever B,A01.2
+,,,,Paratyphoid fever C,A01.3
+,,,,"Paratyphoid fever, unspecified",A01.4
+,,,,Screwdrivers,27111701
+,,,,Screwdriver set,27111728
+,,,,Precision screwdriver,27111731
+,,,,Multiple tip screwdriver,27111734
+,,,,Insulated screwdriver,27111736
+,,,,Torque screwdriver,27111739
+,,,,Impact screwdriver,27111742
+,,,,Screwdriver bits,27112814
+,,,,Screwdriver accessories and supplies,27112830
+,,,,Pneumatic screwdriver,27131512
